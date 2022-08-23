@@ -1,0 +1,154 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+section {
+    height: 950px;
+    border: 1px solid white;
+}
+
+.section-1 {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    margin-top: 200px;
+    font-size: 60px;
+    text-align: center;
+}
+
+.hand {
+    margin-bottom: 100px;
+    font-size: 30px;
+}
+
+.button-1 {
+    text-decoration: none;
+    background-image: linear-gradient(to bottom right, red, tomato);
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+    margin-left: 45%;
+    margin-bottom: 200px;
+}
+
+#today {
+    margin-top: 200px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 200px;
+}
+
+#spcial {
+    border: 2px solid tomato;
+    color: rgb(134, 24, 5);
+}
+
+
+.amount {
+    display: inline-block;
+    font-size: 50px;
+    box-shadow: 5px 5px 20px rgb(150, 153, 155);
+    padding: 40px;
+    margin-left: 6%;
+    border-radius: 10px;
+
+}
+
+
+.gap {
+    margin-left: 42%;
+}
+
+hr {
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+.button-2 {
+    text-decoration: none;
+    background-image: linear-gradient(to bottom right, red, tomato);
+    padding: 15px 40px;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+
+
+
+.catagory-a {
+    background-color: rgba(218, 233, 247, 0.904);
+    display: inline-block;
+    width: 30%;
+    box-shadow: 5px 5px 20px;
+    margin-left: 10px;
+    padding-right: 10px;
+    padding-left: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+
+.catagory-b {
+    background-color: rgba(255, 192, 203, 0.842);
+    display: inline-block;
+    width: 30%;
+    box-shadow: 5px 5px 20px;
+    margin-left: 10px;
+    padding-right: 10px;
+    padding-left: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+.catagory-c {
+    background-color: bisque;
+    display: inline-block;
+    width: 30%;
+    box-shadow: 5px 5px 20px;
+    margin-left: 10px;
+    padding-right: 10px;
+    padding-left: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+.submit-button {
+    margin-left: 40%;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+span {
+    font-size: 30px;
+    color: tomato;
+
+}
